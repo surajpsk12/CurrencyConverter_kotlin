@@ -2,4 +2,14 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <!-- Currency Converter Theme Colors -->
+    <color name="currency_primary">#2E7D32</color>
+    <color name="currency_primary_dark">#1B5E20</color>
+    <color name="currency_accent">#4CAF50</color>
+    <color name="currency_text_primary">#2C3E50</color>
+    <color name="currency_text_secondary">#7F8C8D</color>
+    <color name="currency_card_background">#FFFFFF</color>
+    <color name="currency_result_card">#F8F9FA</color>
+    <color name="currency_input_border">#E8F5E8</color>
+
 </resources>
