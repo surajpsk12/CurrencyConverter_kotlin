@@ -3,7 +3,19 @@
 > **A sleek and simple Android application for quick currency conversions, built with Kotlin and a modern UI design.**
 
 ---
-<!-- App Download Link : [Link to your app download if available] -->
+App Download Link : [https://drive.google.com/file/d/1WhnEhMniPws0W_Qge1rcAhWP2a6FCiRc/view?usp=sharing](https://drive.google.com/file/d/1bSOTBBmYWhz7MuxORUCUVQScAE1FdXw6/view?usp=sharing)
+
+
+## Preview
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/52c9e373-a65b-4e4b-82e9-69e65f1ebfa5" alt="Home" width="250px"/>
+  <img src="https://github.com/user-attachments/assets/c8f01f81-5815-49dd-9f0f-3b2c0e485fb5" alt="Text Input" width="250px"/>
+
+</p>
+
+
+
 
 ## 🚀 Features
 
@@ -54,7 +66,7 @@ com.surajvanshsv.currencyconverter/  (Root Package)
 1.  **Clone this repo:**
     *(You'''ll need to set up a Git repository for your project first)*
     ```bash
-    git clone <your-repository-url>
+    git clone https://github.com/surajpsk12/CurrencyConverter_kotlin.git
     cd CurrencyConverter
     ```
 
@@ -87,12 +99,10 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 
 ## 📜 License
 
-MIT © 2024 [Your Name/Project Name - e.g., Suraj Kumar or CurrencyConverter Project]
-*(Please update with your name/project name and the correct year if needed)*
+MIT © 2025 [Suraj Kumar](https://github.com/surajpsk12)
 
 ## 🌐 Connect With Me (Optional)
 
-*Replace with your actual links if you wish to include this section.*
-*   🔗 [LinkedIn - Your Name](your-linkedin-url)
-*   💻 [GitHub - Your Username](your-github-url)
+* 🔗 [LinkedIn - Suraj Kumar](https://www.linkedin.com/in/surajvansh12/)
+* 💻 [GitHub - surajpsk12](https://github.com/surajpsk12)
 
