@@ -9,6 +9,7 @@
     android:padding="24dp"
     tools:context=".MainActivity">
 
+
         <!-- Header with currency icon -->
         <ImageView
             android:id="@+id/currencyIcon"
